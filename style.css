@@ -1,0 +1,31 @@
+*{
+    border: 2px solid red;
+}
+.whole {
+ 
+}
+.part1 {
+    background-color: darkblue;
+}
+
+.navbar{
+    display: flex;
+    flex: 1;
+    justify-items: flex-start;
+    justify-content: space-between;
+
+}
+    
+.navlist{
+    display: flex;
+    padding: 0px;
+margin: 0px;
+gap: 8px;
+}
+
+ul {
+    list-style: none;
+}
+.headerlogo{
+    
+}
