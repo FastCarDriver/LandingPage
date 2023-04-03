@@ -29,3 +29,41 @@ ul {
 .headerlogo{
     
 }
+.part1content {
+    max-width: 500px;
+    margin-bottom: 32px;
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.somerandom{
+    text-align: center;
+}
+.pictogram{
+    max-width: 100px;
+}
+img{
+    height: 100px;
+    width: auto;
+}
+.allpictogram{
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+}
+.part3{
+    display: flex;
+    margin-left: 300px;
+    max-width: 500px;
+    background-color: lightgray;
+    color: black;
+}
+.thor {
+    display: flex;
+    justify-items: center;
+}
+.foot{
+background-color: lightblue;
+color: white;
+display: flex;
+}
