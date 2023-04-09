@@ -29,6 +29,7 @@
     background-color: hsl(240, 42%, 22%);
     display: flex;
     justify-content: center;
+    padding-bottom: 25px;
 }
 .header{
     width: 900px;
@@ -70,17 +71,25 @@
     color: black;
     display: flex;
     justify-content: center;
+    padding-bottom: 25px;
 }
-.all-pictos{
+.all-pictos-container{
     width: 900px;
     display: flex;
     justify-content: center;
 }
+
 .ebox{
     height: 150px;
     width: 150px;
     border: 2px solid blue;
     border-radius: 25px;
+    align-self: center;
+    margin-bottom: 20px;
 }
-
-
+.picto1, .picto2, .picto3, .picto4{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
