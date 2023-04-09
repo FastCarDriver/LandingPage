@@ -3,12 +3,24 @@
     padding: 0;
     box-sizing: border-box;
 }
-.navbar-container{
+.navbar-container {
     color: #fff;
     background-color: hsl(240, 42%, 22%);
     padding: 20px 0;
+    display: flex;
+    justify-content: center;
 }
-.navbar{
+.navbar {
     border: 1px solid white;
     width: 900px;
+    display: flex;
+    justify-content: flex-start;
 }
+.hlinks {
+    border: 1px solid #fff;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: auto;
+    gap: 20px;
+}
+
