@@ -30,4 +30,17 @@
     display: flex;
     justify-content: center;
 }
+.header{
+    width: 900px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+.descrip {
+    max-width: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: 20px;
+}
+
 
