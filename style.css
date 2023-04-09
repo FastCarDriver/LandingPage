@@ -42,5 +42,17 @@
     flex-wrap: wrap;
     padding-right: 20px;
 }
+.descrip1{
+    font-size: 48px;
+}
+.descrip2{
+    color: grey;
+}
+.header-button{
+    padding-right: 25px;
+    padding-left: 25px;
+    background-color: brown;
+    border-radius: 5px;
+}
 
 
