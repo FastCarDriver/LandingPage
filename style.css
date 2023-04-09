@@ -22,5 +22,12 @@
     justify-content: flex-end;
     margin-left: auto;
     gap: 20px;
+    color: gray
+}
+.header-container{
+    color: white;
+    background-color: hsl(240, 42%, 22%);
+    display: flex;
+    justify-content: center;
 }
 
