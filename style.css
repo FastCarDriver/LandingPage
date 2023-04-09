@@ -95,5 +95,18 @@
 }
 .quote-container{
     background-color: grey;
-    
+    display: flex;
+    justify-content: center;
+
+}
+.quote{
+    display: flex;
+    justify-content: center;
+    max-width: 900px;
+    font-size: 28px;
+}
+.source-container{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
 }
