@@ -54,7 +54,7 @@
     background-color: brown;
     border-radius: 5px;
 }
-.content-container{
+.content-title-container{
     background-color: hsl(240, 53%, 72%);
     padding: 20px 0;
     display: flex;
